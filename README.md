@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @PYH95510
-- 👀 I’m interested in Computer Science, music
-- 🌱 I’m currently learning Computer Science major
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yohan Park
+- 👀 I’m interested in Computer Science, Data Science, Management
+- 📫 How to reach me : pyh95510@gmail.com
 
 <!---
 PYH95510/PYH95510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
