@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 Hi my name is Yohan Park.
 I am currently living in NY.
 I am also pursuing M.S. degree.
