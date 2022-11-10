@@ -1,8 +1,7 @@
-### Hi there 👋
 ![github contribution grid snake animation](https://raw.githubusercontent.com/PYH95510/PYH95510/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
       
 Hi my name is Yohan Park.
-I am currently living in NY.
+I am living in NY.
 I am also pursuing M.S. degree.
 
 You can reach me at
