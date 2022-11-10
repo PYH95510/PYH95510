@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href=#><img src="contributions.svg"></a>
+
 
 Hi my name is Yohan Park.
 I am currently living in NY.
