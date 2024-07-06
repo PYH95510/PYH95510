@@ -8,7 +8,6 @@ You can reach me at
 <p>
 <a href="https://www.linkedin.com/in/yohanpark95510/" target="_blank"><img src="https://img.shields.io/badge/YohanPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pyh95510@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pyh95510@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/yh_95510/" target="_blank"><img src="https://img.shields.io/badge/yh_95510-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
